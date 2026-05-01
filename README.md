@@ -3,8 +3,6 @@
 An intelligent study assistant built in Google Colab using Google's Gemini API.  
 This project helps users learn faster by generating clear explanations, summaries, and answers for study-related questions using AI.
 
----
-
 ## 🚀 Features
 
 - Ask academic or technical questions in natural language
@@ -13,16 +11,12 @@ This project helps users learn faster by generating clear explanations, summarie
 - Uses Gemini 2.5 Flash model for fast responses
 - Secure API key access using Google Colab userdata
 
----
-
 ## 🛠️ Tech Stack
 
 - Python
 - Google Colab
 - Google Gemini API
 - `google-genai` SDK
-
----
 
 ## 📂 Project Structure
 
