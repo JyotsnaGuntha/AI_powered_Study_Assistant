@@ -18,9 +18,23 @@ This project helps users learn faster by generating clear explanations, summarie
 - Google Gemini API
 - `google-genai` SDK
 
+
 ## 📂 Project Structure
 
 ```text
 AI-Study-Assistant/
 │── AI_Study_Assistant.ipynb
 │── README.md
+
+```
+## ⚙️ Installation & Setup
+
+To get this Study Assistant up and running, follow these steps in your environment.
+
+### 1️⃣ Open in Google Colab
+Upload the `.ipynb` file to your [Google Colab](https://colab.research.google.com/) workspace or open it directly from your GitHub repository.
+
+### 2️⃣ Install Dependencies
+Run the following command in the first cell to install the latest Google GenAI SDK:
+```python
+!pip install -U google-genai
